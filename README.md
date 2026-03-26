@@ -1,7 +1,7 @@
 # Idah LGA Water Consumption Study Area
 
 **BSc Geography Undergraduate Thesis Project**  
-Prince Abubakar Audu University, Anyigba, Nigeria (2020)
+Kogi State University, Anyigba, Nigeria (2020)
 
 **Published Outputs**  
 - Journal Article (2023): [Assessment of the Drivers of Domestic Water Consumption Pattern in Idah LGA, Kogi State](https://journals.dbuniversity.ac.in/ojs/index.php/jdp/article/view/4026)  
