@@ -1,6 +1,6 @@
-Idah LGA Water Consumption Study Area
+IDAH LGA WATER CONSUMPTION STUDY AREA 
 
-Project Overview
+PROJECT OVERVIEW 
 
 This project presents a GIS based study area mapping of Idah Local Government Area in Kogi State, Nigeria. The maps were produced as part of a BSc Geography undergraduate thesis at Kogi State University, Anyigba, completed in 2020.
 
@@ -8,7 +8,7 @@ The aim is to provide a clear spatial framework for analysing domestic water con
 
 ---
 
-Study Area Context
+STUDY AREA CONTEXT 
 
 Nigeria showing Kogi State
 
@@ -24,7 +24,7 @@ Nigeria showing Kogi State
   <img src="idah-lga-study-area-map.png" width="600"/>
 </p>---
 
-Methodology
+METHODOLOGY 
 
 The maps were developed using standard GIS procedures:
 
@@ -36,7 +36,7 @@ The maps were developed using standard GIS procedures:
 
 ---
 
-Data and Tools
+DATA AND TOOLS 
 
 - Software used: ArcGIS
 - Coordinate System: WGS 84 (EPSG:4326)
@@ -44,7 +44,7 @@ Data and Tools
 
 ---
 
-Outputs
+OUTPUTS 
 
 The project includes:
 
@@ -56,7 +56,7 @@ These outputs provide the spatial basis for analysing water consumption patterns
 
 ---
 
-Skills Demonstrated
+SKILLS DEMONSTRATED 
 
 - Geographic Information Systems (GIS)
 - Spatial data processing and management
@@ -66,26 +66,27 @@ Skills Demonstrated
 
 ---
 
-Related Publications
+RELATED PUBLICATIONS 
 
 - Journal Article (2023): Assessment of the Drivers of Domestic Water Consumption Pattern in Idah LGA, Kogi State
 - Book Chapter (2024): Assessment of the Drivers of Domestic Water Consumption Pattern in a Growing Population of Idah LGA, Kogi State, Nigeria
 
 ---
 
-Study Area Description
+STUDY AREA DESCRIPTION 
 
 Idah LGA is located in Kogi State in central Nigeria, along the eastern bank of the River Niger. The area plays an important role in regional administration and provides a useful case for analysing water access and consumption patterns.
 
 ---
 
-Author
+AUTHOR 
 
 Stephen Favour Ojonuba
+
 BSc Geography, Kogi State University, Anyigba
 
 ---
 
-Project Link
+PROJECT LINK 
 
 https://github.com/favstev/idah-lga-study-area-map
