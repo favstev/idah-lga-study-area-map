@@ -79,14 +79,38 @@ Idah LGA is located in Kogi State in central Nigeria, along the eastern bank of 
 
 ---
 
-AUTHOR 
+## THEMATIC GIS MAPS
+**Designed by Stephen Favour Ojonuba (Primary Researcher)**
 
-Stephen Favour Ojonuba
+These 4 thematic maps were created by **Stephen Favour Ojonuba** as part of the BSc Geography Thesis: *GIS Mapping & Spatial Analysis of Domestic Water Consumption in Idah LGA, Kogi State (2020)*.  
 
-BSc Geography, Kogi State University, Anyigba
+The maps visualise primary survey data (400 households across 9 communities) that formed the foundation for the peer-reviewed journal article and Wiley book chapter.
+
+### Map 1: Daily Household Water Consumption Pattern
+![Daily Household Water Consumption](thematic_maps/Map1_Consumption.png)  
+*Average consumption: 105.1 litres per person per day (Field Survey 2020)*
+
+### Map 2: Major Domestic Water Sources
+![Major Water Sources](thematic_maps/Map2_Water_Sources.png)  
+*Boreholes (48.6%) vs Rivers (47.5%) – Field Survey 2020*
+
+### Map 3: Accessibility – Distance to Water Source
+![Distance to Water Source](thematic_maps/Map3_Distance_Accessibility.png)  
+*Percentage of households within <100 m of water source (60.7% overall)*
+
+### Map 4: Time to Fetch Water
+![Time to Fetch Water](thematic_maps/Map4_Fetch_Time.png)  
+*Percentage of households fetching water in <10 minutes*
 
 ---
 
-PROJECT LINK 
+**AUTHOR**  
+Stephen Favour Ojonuba  
+BSc Geography, Kogi State University, Anyigba  
 
-https://github.com/favstev/idah-lga-study-area-map
+**PROJECT SUMMARY**  
+Stephen Favour Ojonuba developed the spatial framework and produced these thematic outputs in ArcGIS. The maps directly supported the findings published in:  
+- *The Journal of Development Practice* (2023)  
+- *Disaster Management and Environmental Sustainability* (John Wiley & Sons, 2024)
+
+Full repository: https://github.com/favstev/idah-lga-study-area-map
