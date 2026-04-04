@@ -1,116 +1,73 @@
-IDAH LGA WATER CONSUMPTION STUDY AREA 
+# Idah LGA Study Area Maps
 
-PROJECT OVERVIEW 
+**ArcGIS Cartographic Outputs** from my BSc Geography thesis on *Household Water Consumption Patterns in Idah Local Government Area, Kogi State, Nigeria* (2020).
 
-This project presents a GIS based study area mapping of Idah Local Government Area in Kogi State, Nigeria. The maps were produced as part of a BSc Geography undergraduate thesis at Kogi State University, Anyigba, completed in 2020.
+## Overview
+This repository showcases the GIS maps and thematic charts produced during my undergraduate research on domestic water access and consumption in Idah LGA.
 
-The aim is to provide a clear spatial framework for analysing domestic water consumption patterns and to demonstrate the application of GIS in environmental research.
-
----
-
-STUDY AREA CONTEXT 
-
-Nigeria showing Kogi State
-
-<p align="center">
-  <img src="nigeria-kogi-context.png" width="600"/>
-</p>Kogi State showing Idah LGA
-
-<p align="center">
-  <img src="kogi-idah-context.png" width="600"/>
-</p>Idah LGA Study Area
-
-<p align="center">
-  <img src="idah-lga-study-area-map.png" width="600"/>
-</p>---
-
-METHODOLOGY 
-
-The maps were developed using standard GIS procedures:
-
-- Acquisition of administrative boundary data
-- Data preparation and organisation within a GIS environment
-- Clipping and extraction of the study area
-- Application of symbology to distinguish spatial units
-- Map layout design including legend, scale bar, and north arrow
+- **Institution**: Prince Abubakar Audu University (formerly Kogi State University), Anyigba  
+- **Year**: 2020  
+- **Sample**: 400 households across 9 communities  
 
 ---
 
-DATA AND TOOLS 
+## Study Area Context Maps
 
-- Software used: ArcGIS
-- Coordinate System: WGS 84 (EPSG:4326)
-- Data type: Administrative boundary shapefiles
+![Nigeria-Kogi Context Map](nigeria-kogi-context.png)  
+**Figure 1: National Context Map**  
+Nigeria shown in pale yellow with Kogi State highlighted in pink (WGS 84 projection).
 
----
+![Kogi-Idah Context Map](kogi-idah-context.png)  
+**Figure 2: State Context Map**  
+Kogi State LGAs in yellow; Idah LGA highlighted in red with inset for clarity.
 
-OUTPUTS 
-
-The project includes:
-
-- Nigeria context map
-- Kogi State context map
-- Idah LGA study area map
-
-These outputs provide the spatial basis for analysing water consumption patterns.
+![Idah LGA Study Area Map](idah-lga-study-area-map.png)  
+**Figure 3: Detailed Study Area Map**  
+Idah LGA showing 9 surveyed communities (blue dots), River Niger, road network, and neighbouring LGAs.
 
 ---
 
-SKILLS DEMONSTRATED 
+## Thematic Charts (Primary Survey Results)
 
-- Geographic Information Systems (GIS)
-- Spatial data processing and management
-- Cartographic design and map composition
-- Spatial analysis and visualisation
-- Geographic interpretation
-
----
-
-RELATED PUBLICATIONS 
-
-- Journal Article (2023): Assessment of the Drivers of Domestic Water Consumption Pattern in Idah LGA, Kogi State
-- Book Chapter (2024): Assessment of the Drivers of Domestic Water Consumption Pattern in a Growing Population of Idah LGA, Kogi State, Nigeria
-
----
-
-STUDY AREA DESCRIPTION 
-
-Idah LGA is located in Kogi State in central Nigeria, along the eastern bank of the River Niger. The area plays an important role in regional administration and provides a useful case for analysing water access and consumption patterns.
-
----
-
-## THEMATIC GIS MAPS
-**Designed by Stephen Favour Ojonuba (Primary Researcher)**
-
-These 4 thematic maps were created by **Stephen Favour Ojonuba** as part of the BSc Geography Thesis: *GIS Mapping & Spatial Analysis of Domestic Water Consumption in Idah LGA, Kogi State (2020)*.  
-
-The maps visualise primary survey data (400 households across 9 communities) that formed the foundation for the peer-reviewed journal article and Wiley book chapter.
-
-### Map 1: Daily Household Water Consumption Pattern
 ![Daily Household Water Consumption](thematic_maps/Map1_Consumption.png)  
-*Average consumption: 105.1 litres per person per day (Field Survey 2020)*
+**Figure 4: Daily Household Water Consumption Pattern**  
+Average litres per household per day across the 9 communities. Overall average: 105.1 litres per person per day.
 
-### Map 2: Major Domestic Water Sources
-![Major Water Sources](thematic_maps/Map2_Water_Sources.png)  
-*Boreholes (48.6%) vs Rivers (47.5%) – Field Survey 2020*
+![Major Domestic Water Sources](thematic_maps/Map2_Water_Sources.png)  
+**Figure 5: Major Domestic Water Sources**  
+Percentage reliance on Borehole (blue), River (orange), and Well (green). Boreholes (48.6%) and Rivers (47.5%) dominate.
 
-### Map 3: Accessibility – Distance to Water Source
-![Distance to Water Source](thematic_maps/Map3_Distance_Accessibility.png)  
-*Percentage of households within <100 m of water source (60.7% overall)*
+![Accessibility - Distance to Water Source](thematic_maps/Map3_Distance_Accessibility.png)  
+**Figure 6: Accessibility – Distance to Water Source**  
+Percentage of households with water source within 100 m. Clear spatial inequality within the LGA.
 
-### Map 4: Time to Fetch Water
-![Time to Fetch Water](thematic_maps/Map4_Fetch_Time.png)  
-*Percentage of households fetching water in <10 minutes*
+![Time Taken to Fetch Water](thematic_maps/Map4_Fetch_Time.png)  
+**Figure 7: Time Taken to Fetch Water**  
+Percentage of households fetching water in less than 10 minutes. Mirrors accessibility patterns.
 
 ---
 
-**AUTHOR**  
-Stephen Favour Ojonuba  
-BSc Geography, Kogi State University, Anyigba  
+## Methodology
+- Software: ArcGIS Desktop  
+- Projection: WGS 84 (EPSG:4326)  
+- Data: Administrative boundaries + primary household survey (400 respondents)  
+- Design: Standard cartographic principles (legend, scale bar, north arrow, balanced layout)
 
-**PROJECT SUMMARY**  
-Stephen Favour Ojonuba developed the spatial framework and produced these thematic outputs in ArcGIS. The maps directly supported the findings published in:  
-- *The Journal of Development Practice* (2023)  
-- *Disaster Management and Environmental Sustainability* (John Wiley & Sons, 2024)
+## Key Findings
+- Average daily water consumption: **105.1 litres per person**  
+- Main sources: Borehole (48.6%) vs River (47.5%)  
+- Strongest driver: Household size (33.6%)  
+- Near-perfect positive correlation between supply and consumption (r ≈ 1.0)
 
-Full repository: https://github.com/favstev/idah-lga-study-area-map
+## Publications
+- [Journal Article (2023)](https://journals.dbuniversity.ac.in/ojs/index.php/jdp/article/view/4026) – *The Journal of Development Practice*  
+- [Book Chapter (2024)](https://doi.org/10.1002/9781394167463.ch3) – John Wiley & Sons
+
+## Skills Demonstrated
+- Advanced Cartography & GIS (ArcGIS)  
+- Spatial Data Visualization  
+- Primary Data Collection & Analysis  
+- Academic Research & Peer-Reviewed Publication
+
+## How to Cite
+**Ojonuba, S. F. (2026)**. Idah LGA Study Area Maps: ArcGIS outputs from BSc Geography thesis on household water consumption. GitHub repository. https://github.com/favstev/idah-lga-study-area-map
