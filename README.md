@@ -1,6 +1,6 @@
 # Idah LGA Study Area Maps
 
-**ArcGIS Cartographic Outputs** from my BSc Geography thesis on *Household Water Consumption Patterns in Idah Local Government Area, Kogi State, Nigeria* (2020).
+**ArcGIS cartographic outputs** from my BSc Geography thesis on *Household Water Consumption Patterns in Idah Local Government Area, Kogi State, Nigeria* (2020).
 
 ## Overview
 This repository showcases the GIS maps and thematic charts produced during my undergraduate research on domestic water access and consumption in Idah LGA.
