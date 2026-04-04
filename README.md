@@ -31,7 +31,7 @@ Idah LGA showing 9 surveyed communities (blue dots), River Niger, road network, 
 
 ![Daily Household Water Consumption](thematic_maps/Map1_Consumption.png)  
 **Figure 4: Daily Household Water Consumption Pattern**  
-Average litres per household per day across the 9 communities. Overall average: 105.1 litres per person per day.
+Average litres per household per day across the 9 communities. Overall average: 105.1 litres per household per day.
 
 ![Major Domestic Water Sources](thematic_maps/Map2_Water_Sources.png)  
 **Figure 5: Major Domestic Water Sources**  
@@ -54,7 +54,7 @@ Percentage of households fetching water in less than 10 minutes. Mirrors accessi
 - Design: Standard cartographic principles (legend, scale bar, north arrow, balanced layout)
 
 ## Key Findings
-- Average daily water consumption: **105.1 litres per person**  
+- Average daily water consumption: **105.1 litres per household**  
 - Main sources: Borehole (48.6%) vs River (47.5%)  
 - Strongest driver: Household size (33.6%)  
 - Near-perfect positive correlation between supply and consumption (r ≈ 1.0)
