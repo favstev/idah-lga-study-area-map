@@ -32,6 +32,7 @@ Idah LGA showing 9 surveyed communities (blue dots), River Niger, road network, 
 ![Daily Household Water Consumption](thematic_maps/Map1_Consumption.png)  
 **Figure 4: Daily Household Water Consumption Pattern**  
 Average litres per household per day across the 9 communities. The overall mean is equivalent to 105.1 litres per person per day, derived from household data.
+
 ![Major Domestic Water Sources](thematic_maps/Map2_Water_Sources.png)  
 **Figure 5: Major Domestic Water Sources**  
 Percentage reliance on Borehole (blue), River (orange), and Well (green). Boreholes (48.6%) and Rivers (47.5%) dominate.
